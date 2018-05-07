@@ -105,4 +105,11 @@ h3{
    .timeline-left::after, .timeline-right::after {
 	 left: 17px;
    }
+
+h2 {
+	font-family: inherit;
+}
+
+h3 {
+	font-family: inherit;
 }
